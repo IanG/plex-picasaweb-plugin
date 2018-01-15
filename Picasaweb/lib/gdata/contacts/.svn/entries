@@ -1,0 +1,52 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/contacts
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-01-09T23:34:52.249906Z
+597
+gryder@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+9162ea387113415272b4be1a9b6d39a7
+2008-12-03T17:53:06.269073Z
+573
+api.jscudder
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+1129307837184cc1feb54a4a3937b915
+2009-01-09T23:34:52.249906Z
+597
+gryder@google.com
+

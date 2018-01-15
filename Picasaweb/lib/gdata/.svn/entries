@@ -1,0 +1,208 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-04-23T23:55:14.693182Z
+695
+j.s@google.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+media
+dir
+
+tlslite
+dir
+
+Crypto
+dir
+
+alt
+dir
+
+oauth
+dir
+
+blogger
+dir
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+3d743b700d670c9d513660f5ae630002
+2008-10-08T18:11:15.434091Z
+537
+api.jscudder
+has-props
+
+test_config_template.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+d74597551e62e9e74e2fde37031edde3
+2009-03-28T00:58:41.625009Z
+678
+j.s@google.com
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+ab2ac64a11dc981b36742b4d39be461b
+2009-03-16T16:57:01.802516Z
+640
+api.eric@google.com
+has-props
+
+docs
+dir
+
+auth.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+55f0590ce09e645fb80f49fa75a9823d
+2009-03-25T21:32:09.273178Z
+669
+j.s@google.com
+
+exif
+dir
+
+test_config.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+04849c0d0fe63c91e3bf09ad195642fc
+2009-04-23T23:55:14.693182Z
+695
+j.s@google.com
+
+youtube
+dir
+
+test_data.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+cd757fafc4b28e8aa446ccd69fc8bb22
+2009-03-26T22:20:55.599416Z
+670
+api.eric@google.com
+has-props
+
+gauth.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+286a42a0a7e22fddaa96243057d49822
+2009-03-25T21:32:09.273178Z
+669
+j.s@google.com
+
+codesearch
+dir
+
+data.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+b4822486cea80d80cafae6dd98830745
+2009-03-20T21:09:18.022568Z
+658
+j.s@google.com
+
+apps
+dir
+
+urlfetch.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+3c80c9a52d016c7e98bf38566462dae7
+2008-09-06T00:08:27.575020Z
+506
+api.jscudder
+
+health
+dir
+
+client.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+54884d45b04d0409e37978f58b4d8fb3
+2009-04-16T23:17:58.507639Z
+683
+j.s@google.com
+
+spreadsheet
+dir
+
+calendar
+dir
+
+geo
+dir
+
+base
+dir
+
+webmastertools
+dir
+
+photos
+dir
+
+contacts
+dir
+

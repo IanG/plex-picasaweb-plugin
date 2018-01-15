@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/576/trunk/src/gdata/oauth
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/569/trunk/src/gdata/oauth/__init__.py
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/569/trunk/src/gdata/oauth/CHANGES.txt
+END
+rsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/576/trunk/src/gdata/oauth/rsa.py
+END

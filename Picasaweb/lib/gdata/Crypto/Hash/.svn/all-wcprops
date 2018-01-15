@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash
+END
+MD4.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/MD4.pyd
+END
+HMAC.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/HMAC.py
+END
+SHA.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/SHA.py
+END
+SHA256.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/SHA256.pyd
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/__init__.py
+END
+RIPEMD.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/RIPEMD.pyd
+END
+MD5.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/MD5.py
+END
+MD2.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Hash/MD2.pyd
+END

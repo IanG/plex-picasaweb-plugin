@@ -1,0 +1,53 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/photos
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+bea88725cd169e47d7372567d556d646
+2008-04-10T18:20:19.838255Z
+339
+api.jscudder
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+d0c1ba09b33c98829b5888e006c9825f
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+has-props
+

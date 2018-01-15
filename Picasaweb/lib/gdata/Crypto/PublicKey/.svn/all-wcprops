@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/PublicKey
+END
+qNEW.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/PublicKey/qNEW.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/PublicKey/__init__.py
+END
+pubkey.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/PublicKey/pubkey.py
+END
+ElGamal.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/PublicKey/ElGamal.py
+END
+RSA.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/PublicKey/RSA.py
+END
+DSA.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/PublicKey/DSA.py
+END

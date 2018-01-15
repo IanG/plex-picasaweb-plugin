@@ -1,0 +1,82 @@
+{	
+	// Dutch translation by Matthijs & Hendrik
+	// Menu Captions and Summaries
+
+	"COMMUNITY_MENU_TITLE"					: "Community",
+	"COMMUNITY_MENU_SUMMARY"				: "Bekijk foto's van de Picasa community.",
+
+	"COMMUNITY_FEATURED_PHOTOS_TITLE"		: "Aanbevolen Foto's",
+	"COMMUNITY_FEATURED_PHOTOS_SUMMARY"		: "Laat aanbevolen foto's van de Picasa community zien.",
+	
+	"COMMUNITY_RECENT_PHOTOS_TITLE"			: "Laatste Foto's",
+	"COMMUNITY_RECENT_PHOTOS_SUMMARY"		: "Bekijk de laatst toegevoegde foto's van andere Picasa gebruikers.",
+
+	"SEARCH_TITLE"							: "Zoeken...",
+	
+	"COMMUNITY_SEARCH_SUMMARY"				: "Zoek in de Picasa Web Albums community.",
+	"COMMUNITY_SEARCH_RESULTS"				: "Community Zoekresultaten",
+	
+	"MY_SEARCH_SUMMARY"						: "Zoek in mijn foto's.",
+	"MY_SEARCH_RESULTS"						: "Zoekresultaten",
+	
+	"FRIEND_SEARCH_SUMMARY"					: "Zoek in %s's foto's.",
+	"FRIEND_SEARCH_RESULTS"					: "Zoekresultaten",
+		
+	"PREFERENCES_TITLE"						: "Instellingen...",
+	"PREFERENCES_SUMMARY"					: "Configureer de Picasa Web Albums instellingen.\n\nAls je je eigen gallerij wilt bekijken of die van anderen dan moet je je Picasa gegevens opgeven. Je kunt ook de toegangkelijkheid van je prive albums instellen.",
+	
+	"ABOUT_TITLE"							: "About...",
+
+	"ME_MENU_TITLE"							: "Mijn Gallerij",
+	"ME_MENU_SUMMARY"						: "Bekijk je albums, foto's en tags.",
+	
+	"FRIEND_MENU_SUMMARY"					: "Bekijk %s's albums, foto's, tags en vrienden.",
+	
+	"MY_ALBUM_LIST_TITLE"					: "Mijn Albums",
+	"MY_ALBUM_LIST_SUMMARY"					: "Bekijk mijn albums.",
+
+	"MY_TAG_LIST_TITLE"						: "Mijn Tags",
+	"MY_TAG_LIST_SUMMARY"					: "Bekijk mijn tags.",
+	
+	"MY_RECENT_PHOTOS_TITLE"				: "Mijn laatste foto's",
+	"MY_RECENT_PHOTOS_SUMMARY"				: "Bekijk mijn laatste foto's.",
+	
+	"MY_FRIEND_LIST_TITLE"					: "Mijn Vrienden",
+	"MY_FRIEND_LIST_SUMMARY"				: "Bekijk mijn vrienden.",
+	
+	"FRIEND_LIST_TITLE"						: "%s's Vrienden",
+	"FRIEND_LIST_SUMMARY"					: "Bekijk %s's vrienden.",
+	
+	"ALBUM_LIST_TITLE"						: "%s's Albums",
+	"ALBUM_LIST_SUMMARY"					: "Bekijk %s's albums.",
+		
+	"TAG_LIST_TITLE"						: "%s's Tags",
+	"TAG_LIST_SUMMARY"						: "Bekijk %s's tags.",
+	
+	"RECENT_PHOTOS_TITLE"					: "%s's Laatste Foto's",
+	"RECENT_PHOTOS_SUMMARY"					: "Bekijk %s's laatst toegevoegde foto's",
+	
+	// Message Box Captions and Summaries
+	
+	"MESSAGE_NO_USER_SPECIFIED_TITLE"		: "Geen Picasa Gebruikersnaam",
+	"MESSAGE_NO_USER_SPECIFIED_SUMMARY"		: "Ga naar instellingen en stel je Picasa gebruikersnaam in.",
+
+	"MESSAGE_SERVICE_ERROR_TITLE"			: "Picasa Service Fout",
+	"MESSAGE_SERVICE_ERROR_SUMMARY"			: "Er is een probleem met de Picasa service. Je login gegevens zijn onjuist, je hebt geen verbinding met het internet of de Picasa service is niet beschikbaar.",
+
+	"MESSAGE_NO_FRIENDS_TITLE"				: "Geen vrienden gevonden",
+	"MESSAGE_NO_FRIENDS_SUMMARY"			: "User %s heeft geen vrienden.",
+	
+	"MESSAGE_NO_TAGS_TITLE"					: "Geen tags gevonden",
+	"MESSAGE_NO_TAGS_SUMMARY"				: "User %s heeft geen tags.",
+	
+	"MESSAGE_NO_ALBUMS_TITLE"				: "Geen albums gevonden",
+	"MESSAGE_NO_ALBUMS_SUMMARY"				: "User %s heeft geen albums.",
+	
+	"MESSAGE_NO_PHOTOS_TITLE"				: "Geen foto's gevonden",
+	"MESSAGE_NO_PHOTOS_SUMMARY"				: "Er zijn geen foto's gevonden",
+	
+	// Messages for actions that can happen whilst browsing
+	
+	"ACTION_VIEW_TAG_SUMMARY"				: "Bekijk alle foto's met de tag '%s'" 
+}

@@ -1,0 +1,23 @@
+[
+	{
+    	"id"		: 	"username",
+    	"type"		:	"text",
+    	"label"		: 	"Google/Picasa Username",
+    },
+    {
+    	"id"		:	"password",
+    	"type"		:	"text",
+    	"label"		: 	"Google/Picasa Password",
+    	"option"	:	"hidden"
+    },
+    {
+    	"id"		:	"showprivatealbums",
+    	"type"		:	"bool",
+		"label"		:	"Show my private albums"
+	},
+	{
+    	"id"		:	"showphotosummary",
+    	"type"		:	"bool",
+		"label"		:	"Show summary information on photographs"
+	}
+]

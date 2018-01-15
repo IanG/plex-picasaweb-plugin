@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/695/trunk/src/gdata
+END
+test_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/670/trunk/src/gdata/test_data.py
+END
+gauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/669/trunk/src/gdata/gauth.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/658/trunk/src/gdata/data.py
+END
+urlfetch.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/506/trunk/src/gdata/urlfetch.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/683/trunk/src/gdata/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/537/trunk/src/gdata/__init__.py
+END
+test_config_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/678/trunk/src/gdata/test_config_template.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/640/trunk/src/gdata/service.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/669/trunk/src/gdata/auth.py
+END
+test_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/695/trunk/src/gdata/test_config.py
+END

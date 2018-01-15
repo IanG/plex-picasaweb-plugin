@@ -1,0 +1,54 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/calendar
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+c67b2870bd748b46f3b298cf8d2927d3
+2008-09-26T23:18:38.260256Z
+535
+api.jscudder
+has-props
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+431419ed242bbf9511aaddfb4c9c8d89
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+has-props
+

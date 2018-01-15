@@ -1,0 +1,52 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/webmastertools
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+a5171279b3897ff74af9d98d9c3c8115
+2008-10-13T21:56:49.099999Z
+548
+api.jscudder
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+4420b1d8542554b6d15d2d54f026cc5b
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+

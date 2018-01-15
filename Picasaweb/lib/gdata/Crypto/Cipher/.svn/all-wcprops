@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/632/trunk/src/gdata/Crypto/Cipher
+END
+ARC2.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/ARC2.pyd
+END
+AES.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/AES.pyd
+END
+XOR.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/XOR.pyd
+END
+ARC4.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/ARC4.pyd
+END
+RC5.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/RC5.pyd
+END
+CAST.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/CAST.pyd
+END
+DES.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/DES.pyd
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/__init__.py
+END
+Blowfish.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/Blowfish.pyd
+END
+DES3.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/DES3.pyd
+END
+IDEA.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/569/trunk/src/gdata/Crypto/Cipher/IDEA.pyd
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/alt
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2008-10-11T01:10:50.952606Z
+545
+api.jscudder
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:50.000000Z
+2c536514cd7b91fce836b151791f20e0
+2008-09-06T00:31:07.728916Z
+507
+api.jscudder
+
+appengine.py
+file
+
+
+
+
+2009-05-09T17:39:50.000000Z
+4e367766a1529e4b9637dc35e66bed91
+2008-10-11T01:10:50.952606Z
+545
+api.jscudder
+

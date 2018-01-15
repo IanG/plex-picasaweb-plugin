@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/689/trunk/src/atom
+END
+mock_http.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/519/trunk/src/atom/mock_http.py
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/686/trunk/src/atom/core.py
+END
+mock_service.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/359/trunk/src/atom/mock_service.py
+END
+token_store.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/525/trunk/src/atom/token_store.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/621/trunk/src/atom/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/625/trunk/src/atom/__init__.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/683/trunk/src/atom/http.py
+END
+http_interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/556/trunk/src/atom/http_interface.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/689/trunk/src/atom/service.py
+END
+mock_http_core.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/683/trunk/src/atom/mock_http_core.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/604/trunk/src/atom/auth.py
+END
+url.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/525/trunk/src/atom/url.py
+END
+http_core.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/669/trunk/src/atom/http_core.py
+END

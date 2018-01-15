@@ -1,0 +1,54 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/base
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+65e1bcb23bb05a28b86e601f6618dc44
+2008-04-10T18:20:19.838255Z
+339
+api.jscudder
+has-props
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:54.000000Z
+49d05d4484942cbf7d09378e4e75bac2
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+has-props
+

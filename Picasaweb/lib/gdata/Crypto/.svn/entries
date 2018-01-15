@@ -1,0 +1,69 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/Crypto
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-03-10T21:52:16.865967Z
+632
+j.s@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+Protocol
+dir
+
+Hash
+dir
+
+test.py
+file
+
+
+
+
+2009-05-09T17:39:51.000000Z
+623b8d4620a9dbee27e41063f8933f80
+2008-12-02T01:53:01.488089Z
+569
+api.eric@google.com
+has-props
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:51.000000Z
+d9e4ec020db8ff2d80a4a11116d57f22
+2008-12-02T01:53:01.488089Z
+569
+api.eric@google.com
+has-props
+
+PublicKey
+dir
+
+Cipher
+dir
+
+Util
+dir
+

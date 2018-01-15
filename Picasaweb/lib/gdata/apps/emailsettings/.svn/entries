@@ -1,0 +1,52 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/apps/emailsettings
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-03-19T16:35:13.910892Z
+644
+j.s@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+f43042992e9a3ea09c9f6d52d77ceb4d
+2008-10-09T20:57:34.472446Z
+544
+api.jscudder
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+b9ed0a4175cea53fcaabde167f2bf1ed
+2009-03-19T16:35:13.910892Z
+644
+j.s@google.com
+

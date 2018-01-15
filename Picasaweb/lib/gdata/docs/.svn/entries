@@ -1,0 +1,52 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/docs
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-04-09T21:45:18.898406Z
+682
+api.eric@google.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:52.000000Z
+e831506ffd424eae816007f4d345c456
+2009-03-26T22:20:55.599416Z
+670
+api.eric@google.com
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:52.000000Z
+952a974cd99770342d10008dbda8ecf4
+2009-04-09T21:45:18.898406Z
+682
+api.eric@google.com
+

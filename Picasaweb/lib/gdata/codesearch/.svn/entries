@@ -1,0 +1,52 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/codesearch
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+87055f8a58d4dbfe5c8c71a034505dc4
+2008-04-10T16:55:59.778601Z
+337
+api.jscudder
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+e373a1ea4246bc527a71e8cad66efca3
+2009-01-08T14:04:53.103494Z
+592
+gryder@google.com
+

@@ -1,0 +1,52 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/apps/migration
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2008-10-15T22:23:21.764612Z
+551
+api.jscudder
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+08a6b4b05fbcb66e4965dda03eae2c50
+2008-10-15T22:23:21.764612Z
+551
+api.jscudder
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+a57cbb396bcb38497ca5d819a89156c1
+2008-10-15T22:23:21.764612Z
+551
+api.jscudder
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/545/trunk/src/gdata/alt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/507/trunk/src/gdata/alt/__init__.py
+END
+appengine.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/545/trunk/src/gdata/alt/appengine.py
+END

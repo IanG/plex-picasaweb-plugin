@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/592/trunk/src/gdata/webmastertools
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/548/trunk/src/gdata/webmastertools/__init__.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/592/trunk/src/gdata/webmastertools/service.py
+END

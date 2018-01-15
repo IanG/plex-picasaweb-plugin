@@ -1,0 +1,61 @@
+8
+
+dir
+697
+http://gdata-python-client.googlecode.com/svn/trunk/src/gdata/apps
+http://gdata-python-client.googlecode.com/svn
+
+
+
+2009-03-20T19:05:40.626453Z
+654
+api.htchan
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7ed92db3-4423-0410-a5bc-5f2579731264
+
+groups
+dir
+
+__init__.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+1183412d4438372e7e54b8f3256bc3cf
+2009-03-20T19:05:40.626453Z
+654
+api.htchan
+
+service.py
+file
+
+
+
+
+2009-05-09T17:39:53.000000Z
+5f26082fe2af71ff6dcb2fdb67eef128
+2009-03-20T19:05:40.626453Z
+654
+api.htchan
+
+emailsettings
+dir
+
+migration
+dir
+
